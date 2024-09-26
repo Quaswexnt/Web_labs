@@ -123,6 +123,10 @@ html, body {
 
 a {
   text-decoration: none;
+
+}
+a:hover{
+  color:red;
 }
 
 .item_4 ul {
